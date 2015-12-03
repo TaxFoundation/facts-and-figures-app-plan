@@ -10,6 +10,10 @@ The Tax Foundation has published Facts and Figures since 1941. In it's current i
 * Must be easy to navigate to desired information, or to simply browse
 * Must be updateable with new data
 
+### Ideal Requirements
+
+* App can geo-locate users to show them the information of the state they are in
+
 ## Design and Function
 
 Mockups illustrating design and information flow are in process.
