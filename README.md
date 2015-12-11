@@ -8,7 +8,7 @@ The Tax Foundation has published [Facts and Figures](https://github.com/TaxFound
 
 This InVision demo shows the app structure we are looking for. The exact style may vary by platform, though [brand-specific elements](https://github.com/TaxFoundation/brand-assets) should be retained.
 
-[See mockup here.](https://invis.io/QZ54U1E9H)
+[See mockup here.](https://invis.io/QZ54U1E9H) Download assets used in mockup [here](https://www.dropbox.com/s/4xas4p15jdm0v9i/Facts%20%26%20Figures%20App.zip).
 
 ![Home Screen](app-home-mockup.png)
 
