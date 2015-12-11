@@ -27,3 +27,7 @@ This InVision demo shows the app structure we are looking for. The exact style m
 * Full documentation of how to update the app/data will be delivered to the Tax Foundation.
 * Developer will submit apps to Play Store and App Store on behalf of the Tax Foundation upon our approval.
 * The Tax Foundation will pay for services 33% upfront, 33% upon completion, and 33% upon acceptance to the Apple App Store.
+
+## Proposal Submission
+
+To submit a proposal or ask for further details, please contact [Tom VanAntwerp](mailto:vanantwerp@taxfoundation.org), Tax Foundation's Director of IT.
