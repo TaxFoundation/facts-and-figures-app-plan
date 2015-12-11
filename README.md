@@ -13,6 +13,7 @@ The Tax Foundation has published [Facts and Figures](https://github.com/TaxFound
 ## Work Process Requirements
 
 * Development must take place in a private GitHub repo (or multiple repos) controlled by the Tax Foundation, to which developers will be given full access
+* To keep things simple, platform default styles are acceptable (e.g., Material for Android)
 * Full source code used during the project will be delivered to the Tax Foundation upon completion
 * Full documentation of how to update the app/data will be delivered to the Tax Foundation
 * Developer will submit apps to Play Store and App Store on behalf of the Tax Foundation upon our approval
