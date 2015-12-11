@@ -16,6 +16,7 @@ This InVision demo shows the app structure we are looking for. The exact style m
 
 * Must support iOS and Android (could be two native apps, or one hybrid framework app)
 * Must be easy to navigate to specific information, or to simply browse
+* Tables of data should be sortable
 * Must be updateable with new tax data as it's available
 * Allow users to make a donation to the Tax Foundation from within the app
 
