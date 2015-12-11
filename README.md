@@ -26,7 +26,7 @@ This InVision demo shows the app structure we are looking for. The exact style m
 * Full source code used during the project will be delivered to the Tax Foundation upon completion.
 * Full documentation of how to update the app/data will be delivered to the Tax Foundation.
 * Developer will submit apps to Play Store and App Store on behalf of the Tax Foundation upon our approval.
-* The Tax Foundation will pay for services 33% upfront, 33% upon completion, and 33% upon acceptance to the Apple App Store.
+* The Tax Foundation will pay for services 33% upfront, 33% upon completion, and 34% upon acceptance to the Apple App Store.
 
 ## Proposal Submission
 
